@@ -1,4 +1,4 @@
-# SciKit_Learn_Regression
+# SciKit_Learn_Regression_Optimization
 
 Learnt about optimisation technique of the error function using two alogorithms:
 
